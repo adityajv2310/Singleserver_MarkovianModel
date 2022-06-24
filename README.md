@@ -14,7 +14,7 @@ exponential distribution with mean serice rate 5 per minutes.
 
 Visual components and Python
 
-# Theory:
+# Theory :
 
   Queuing are the most frequently encountered problems in everyday life. For example, queue
 at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects
@@ -47,15 +47,15 @@ result in an increase in the idle time of the service mechanism.
 
 ![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
 
-# Program
+# Program :
 
 ![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
 
 
-#  Output 
+#  Output : 
 
 ![image](https://user-images.githubusercontent.com/104613195/175240669-9eef6924-f33e-46f9-9c01-988b58480ce3.png)
 
-# Result 
+# Result :
  
 The average number of materials in the system is 4 and the conveyor is 3.2, and average waiting time of each materials in the system is 60 seconds and conveyor is 48 seconds are calculated.
