@@ -12,7 +12,6 @@ To find
 if arrival rate of material  follows poisson process 4 per minuates and serivice rate of lathe machine follows 
 exponential distribution with mean serice rate 5 per minutes.
 
-
 # Software required :  
 
 Visual components and Python
@@ -33,7 +32,6 @@ result in an increase in the idle time of the service mechanism.
 ![image](https://user-images.githubusercontent.com/104613195/173292021-8c3b77dc-a9c2-4179-91ed-17e1db7039df.png)
 
 
- 
 # Procedure :
  
 1. Calcualte average number of materials to be waitted in the conveyor using given data.
@@ -46,8 +44,6 @@ result in an increase in the idle time of the service mechanism.
 8. Drag robot manager and robot from visual legacy and place in between two conveyors.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
-
-
 # Experiment 
 
 ![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
@@ -55,7 +51,6 @@ result in an increase in the idle time of the service mechanism.
 # Program :
 
 ![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
-
 
 #  Output :
 
