@@ -46,6 +46,8 @@ result in an increase in the idle time of the service mechanism.
 8. Drag robot manager and robot from visual legacy and place in between two conveyors.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
+
+
 # Experiment 
 
 ![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
